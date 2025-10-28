@@ -94,4 +94,4 @@ This is a theoretical exploration. Contributions to refine the mathematical form
 
 ## License
 
-[Specify your license here, e.g., MIT, Apache 2.0]
+[MIT]
